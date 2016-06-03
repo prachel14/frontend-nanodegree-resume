@@ -5,3 +5,4 @@ var firstName = "paige";
 var age = 22;
 
 console.log(firstName);
+
